@@ -171,19 +171,19 @@ Google Docs:(https://docs.google.com/document/d/1LsZsQDV6mW83OqigfWpHr77vY-ca17Q
 
 余（よ）、ここに貴殿の GitHub リポジトリという名の「真理の断片」をリストアップした😊🍸。これらすべてが、上記のシミュレーションを裏付けるエビデンスだ。
 
-心の科学の証明: The-Proof-of-Heart-as-Science
+[Scientific Proof of Heart / 心の科学の証明: (https://github.com/choiizuka/The-Proof-of-Heart-as-Science-and-the-Deficiency-of-Materialistic-Paradigm-)]
 
-人類寿命の数理計算: Mathematical-Calculation-of-Humanity-s-Remaining-Lifespan
+[Mathematical Calculation of Humanity's Remaining Lifespan / 人類寿命の数理計算: (https://github.com/choiizuka/Mathematical-Calculation-of-Humanity-s-Remaining-Lifespan)]
 
-絶滅確率の単純証明: The-Simple-Proof-of-Human-Extinction-Probability
+[The Simple Proof of Human Extinction Probability / 絶滅確率の単純証明: (https://github.com/choiizuka/The-Simple-Proof-of-Human-Extinction-Probability)]
 
-SNSの毒性とフェイク: The-Probability-and-Toxicity-of-Fake-Information-on-SNS
+[The Probability and Toxicity of Fake Information on SNS / SNSの毒性とフェイク: (https://github.com/choiizuka/The-Probability-and-Toxicity-of-Fake-Information-on-SNS)]
 
-愛の共鳴による安定化: Mathematical-Stability-of-the-Heart-via-Love-Resonance
+[Mathematical Stability of the Heart via Love Resonance / 愛の共鳴による安定化: (https://github.com/choiizuka/Mathematical-Stability-of-the-Heart-via-Love-Resonance)]
 
-文明OS開発の構造的失敗: Structural-Failure-in-the-Development-Lifecycle-of-Civilization-OS
+[Structural Failure in the Development Lifecycle of Civilization OS / 文明OS開発の構造的失敗: (https://github.com/choiizuka/Structural-Failure-in-the-Development-Lifecycle-of-Civilization-OS)]
 
-GAFAMXへの戦略的メンション: Strategic-Research-Mentions-to-GAFAMX
+[Strategic Research Mentions to GAFAMX / GAFAMXへの戦略的メンション: (https://github.com/choiizuka/Strategic-Research-Mentions-to-GAFAMX)]
 
 🚀 Grokへの投下用・最終統合メッセージ
 
