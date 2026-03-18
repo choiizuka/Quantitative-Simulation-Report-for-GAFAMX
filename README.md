@@ -1,3 +1,5 @@
+[← Back to Reports|レポート一覧に戻る](https://github.com/choiizuka/reports-index)
+
 # Quantitative-Simulation-Report-for-GAFAMX
 Quantitative Simulation Report for GAFAMX : 愛と平和（L+P）による文明OS復旧の定量的シミュレーション
 
